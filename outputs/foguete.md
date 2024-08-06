@@ -1,0 +1,3 @@
+Prompt: "Identifique e descreva o quê representa a imagem em anexo."
+
+Output: "Claro! A imagem mostra o lançamento de um foguete. O foguete está no centro da imagem, cercado por estruturas de suporte e andaimes. O céu ao fundo está parcialmente nublado com tons de azul e laranja, sugerindo que pode ser amanhecer ou entardecer. O foguete tem uma coloração predominantemente branca com detalhes em preto e laranja, e está emitindo chamas e fumaça na parte inferior, indicando que está no processo de decolagem. A fumaça branca se espalha pela base da plataforma de lançamento. Não há problemas matemáticos ou lição de casa para transcrever nesta imagem. Se você tiver alguma outra pergunta ou precisar de mais informações, estou à disposição! 😊"

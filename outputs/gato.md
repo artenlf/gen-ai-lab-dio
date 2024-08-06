@@ -1,0 +1,3 @@
+Prompt: "Identifique e descreva o quê representa a imagem em anexo."
+
+Output:"A imagem mostra um gato preto e branco com uma face predominantemente preta, área branca ao redor da boca e do nariz, e olhos grandes e redondos de cor amarela. As orelhas do gato estão apontadas para cima, e seu corpo é visível, com pelo preto nas costas e branco na parte da frente. O gato parece estar em posição sentada, com uma das patas dianteiras ligeiramente levantada, como se estivesse fazendo um gesto. O fundo é de cor azul claro, proporcionando um contraste nítido com o pelo do gato. Não há problemas matemáticos ou de lição de casa presentes nesta imagem para transcrever. 🐾"

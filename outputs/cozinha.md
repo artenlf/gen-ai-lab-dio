@@ -1,0 +1,3 @@
+Prompt: "Identifique e descreva o quê representa a imagem em anexo."
+
+Output: "Claro! A imagem mostra um armário de cozinha moderno. Ele possui uma combinação de compartimentos em madeira clara e portas em cinza. Na parte superior, há prateleiras abertas onde estão dispostos alguns itens de cozinha, como canecas e potes de vidro com tampas, além de um micro-ondas. Abaixo das prateleiras, existem mais compartimentos fechados por portas cinzas. O armário está apoiado sobre pés que elevam sua base do chão. Não há problemas matemáticos ou lição de casa para transcrever na imagem. 🍽️🏠"

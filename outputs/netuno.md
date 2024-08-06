@@ -1,0 +1,3 @@
+Prompt: "Identifique e descreva o quê representa a imagem em anexo."
+
+Output: "Claro! A imagem em anexo representa o planeta Netuno. Ele é caracterizado por sua cor azul profundo e pelas faixas atmosféricas e tempestades visíveis. O planeta está em um fundo preto, sugerindo que a imagem foi capturada no espaço. A coloração única de Netuno é devido à absorção de luz vermelha pelo metano em sua atmosfera, refletindo de volta a luz azul. É um vislumbre fascinante de um dos planetas exteriores do nosso sistema solar! 🌌🪐"

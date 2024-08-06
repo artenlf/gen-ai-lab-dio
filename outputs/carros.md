@@ -1,0 +1,3 @@
+Prompt: "Identifique e descreva o quê representa a imagem em anexo."
+
+Output: "A imagem mostra uma linha de carros estacionados, aparentemente novos ou seminovos, à venda. Os veículos são de cores variadas, incluindo branco, cinza e preto. No para-brisa do carro mais próximo há um adesivo que indica o preço de “18.900” e abaixo a palavra “VEÍCULOS”, sugerindo que este é o preço de venda do carro. A presença dos preços nos para-brisas sugere que a imagem foi tirada em um lote de vendas de carros ou concessionária. 🚗💰"
